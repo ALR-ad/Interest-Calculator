@@ -13,4 +13,4 @@ A modern, responsive web application for calculating interest.
 - **JavaScript** Implemented for calculation logic
 
 ## 🚀 Live Demo
-[Check it out here!](YOUR_GITHUB_IO_LINK_HERE)
+- Check it out here!>> https://alr-ad.github.io/Interest-Calculator/
