@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interest Rate Calculator</title>
+    <link rel = "stylesheet" href="css.css">
+</head>
+<body>
+
+   <div class="container">
+        
+        <div class="calculator-card">
+            <h1 style="color: rgb(0, 0, 0); margin-bottom: 20px;"> Interest Calculator</h1>
+            
+            <input type="number" id="principal" placeholder="Principal Amount (P)">
+            <input type="number" id="rate" placeholder="Annual Interest Rate (%)">
+            <input type="number" id="time" placeholder="Time (Years)">
+            
+            <br><br>
+            
+            <button onclick="calculateInterest()">Calculate</button>
+            <br><br>
+            
+            <div id="result" style="color: white; margin-top: 20px; font-weight: bold;"></div>
+        </div>
+
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
